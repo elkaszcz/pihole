@@ -1,1 +1,5 @@
 0.0.0.0 ssb-global.smartadserver.com
+0.0.0.0 app.startquestion.com
+0.0.0.0 paidnewsletters.ocdn.eu
+0.0.0.0 www.piano.io
+0.0.0.0 recommendations-onet.aureus.ringpublishing.com
